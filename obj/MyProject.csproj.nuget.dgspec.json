@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asasi\\MyProject\\MyProject.csproj": {}
+    "D:\\Downloads\\необразимое\\Visual Studio\\test\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asasi\\MyProject\\MyProject.csproj": {
+    "D:\\Downloads\\необразимое\\Visual Studio\\test\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asasi\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "D:\\Downloads\\необразимое\\Visual Studio\\test\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\asasi\\MyProject\\MyProject.csproj",
+        "projectPath": "D:\\Downloads\\необразимое\\Visual Studio\\test\\MyProject.csproj",
         "packagesPath": "C:\\Users\\asasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asasi\\MyProject\\obj\\",
+        "outputPath": "D:\\Downloads\\необразимое\\Visual Studio\\test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Downloads\\необразимое\\висуал стадиа\\Компоненты\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asasi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\asasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
